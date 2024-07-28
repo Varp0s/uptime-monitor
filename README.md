@@ -71,8 +71,8 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## TO:DO
 
-json api support
-separate chart for each asset
+- json api support
+- separate chart for each asset
 
 ## License
 

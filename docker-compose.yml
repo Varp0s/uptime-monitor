@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  uptime_monitor:
+    build: .
+    ports:
+      - "1453:1453"
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
